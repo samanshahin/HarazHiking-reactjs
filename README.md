@@ -1,6 +1,6 @@
 # About the project
 
-This project is based on a book named Haraz Hiking and attractions published in Iran. It was developed in [ReactJS + Redux](https://redux.js.org/) with css parts imported from [Bootstrap's Album example](https://getbootstrap.com/docs/4.5/examples/). I use store and AdminCode to prevent others to enter data to the store.
+This project is about [Redux](https://redux.js.org/) and Store in ReactJS based on a real project and a book named Haraz Hiking and attractions published in Iran. It was developed in [ReactJS + Redux](https://redux.js.org/) with css parts imported from [Bootstrap's Album example](https://getbootstrap.com/docs/4.5/examples/). I use store and AdminCode to prevent others to enter data to the store.
 You can just use these files and folders:
 #### index.js
 #### App.js
